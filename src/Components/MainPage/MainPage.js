@@ -14,14 +14,13 @@ export default function Nav() {
 
         {/* other bits */}
 
-        <TextCard id="about" name="Welcome">
+        <TextCard id="about" name="Welcome To Bogdanrand">
           {/* <h2>What do we do</h2> */}
           <p>
-            test Cras ut sagittis nulla. Curabitur vel feugiat nibh. Aenean
-            viverra viverra tempus. Quisque tincidunt feugiat leo quis sodales.
-            Praesent viverra posuere velit, quis laoreet est varius vel. Duis et
-            cursus nisi. Integer ultrices sed augue eget imperdiet. Pellentesque
-            eu euismod lacus.
+          Its no secret that The Twins have long been effecting the markets through their superior understanding of Egregornomics. 
+Spend enough time in the market and assuridly it has been witnessed- You place your buy bid and BAM. Rekt. Big red candle... So you panic- Cut the losses. Sell. 
+Nothing but a sea of green. 
+It happens enough and the internal qestioning arises. The answer is yes. It really is all by design.  
           </p>
         </TextCard>
         <Container />
@@ -29,20 +28,16 @@ export default function Nav() {
         {/* <PortfolioCard /> */}
 
         <PageFill>
-          <TextCard id="sevices" name="Our Services">
+          <TextCard id="sevices" name="Our Mission">
             <p>
-              Morbi pretium varius nisi eu bibendum. Nam vulputate erat quam.
-              Suspendisse vehicula ipsum tristique, dictum turpis ac, vestibulum
-              ex. Aliquam quis ornare nunc. Sed consequat tellus in lacus
-              lobortis volutpat. Sed semper ante et turpis congue ullamcorper.
-              Morbi sit amet elit sed odio tempus aliquam. Aliquam sed pulvinar
-              nunc.
+            Suprisingly, it turns out, alot of the theories are real- from the psychic abilities, to the 215+ IQ's, the ownership of castles, banks, the majority of gene-editing research facilities on Earth, 
+and being in contact with "aliens" (more on, well, all of this later), the internet as ALMOST gotten it right this time. 
             </p>
           </TextCard>
-
+          <Container />
           <ServiceCard
             head="Stills"
-            img="http://cdn.home-designing.com/wp-content/uploads/2018/05/white-interior-design.jpg"
+            img="https://wallpapercave.com/wp/wp6072545.png"
           >
             <p>
               Ut ornare urna id mi dapibus malesuada. Aenean sit amet ultrices

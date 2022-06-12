@@ -4,7 +4,7 @@ import { Parallax, Background } from "react-parallax";
 const image1 =
   "http://cdn.home-designing.com/wp-content/uploads/2018/05/white-living-room-furniture.jpg";
 const image2 =
-  "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/edc020121toolbox-001-1607447196.jpg";
+  "https://cdn.dribbble.com/userupload/2668625/file/original-ab1045b11e0703edf27481f8e6d6fcd1.jpg?compress=1&resize=2400x1800";
 
 ("https://www.bocadolobo.com/en/inspiration-and-ideas/wp-content/uploads/2020/08/feature-image-81.jpg");
 
@@ -12,7 +12,7 @@ const Container = () => (
   <Parallax bgImage={image2} strength={200}>
     {/* <p>... Content</p> */}
     <div className="Folio_Card">
-      <div className="txt">LOGO</div>
+      <div className="txt">BOGDANRAND</div>
       {/* <div className="strapline">Strapline somthing</div> */}
     </div>
   </Parallax>
