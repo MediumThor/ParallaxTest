@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-        BOGDANRAND
+        PWYC WI
         {/* React <i className="fab fa-react"></i> */}
       </div>
       <div className="menu-icon" onClick={handleClick}>

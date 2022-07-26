@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="footer">
       <div>
         {/* <span class="fa fa-phone"></span>001 1023 567 */}
-        <span class="fa fa-envelope-o"></span> contact@company.com
+        <span class="fa fa-envelope-o"></span> contact@pwycwi.com
       </div>
     </div>
   );

@@ -5,25 +5,25 @@ const image1 =
 "https://imgs.search.brave.com/-OZletqiEnwbXQILwmr6z3KFgBZXIPtEckyJT1twN2o/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWcu/bWFyaW5hcy5jb20v/djIvZTI0YmU2YzFk/MjdjYzY4NWQ5MjEy/OWRiYjA4NzhhNTNm/ZTI1OTYwNTg4YTg3/ZDg3MjYyYmUxMGJl/YzU1NjVhNy5qcGc";
 
 const image2 =
-"https://i.imgur.com/LJAaNAN.jpg";
+"https://imgs.search.brave.com/vRw5MTFRPU_PbdhQIO9rOn8h6FVjhUEwMu0c6UbBDe0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9uaWNr/eWJveWNoYXJ0ZXJz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNS8xMS9Cb2F0/XzAwMS5qcGc";
 
 ("https://www.bocadolobo.com/en/inspiration-and-ideas/wp-content/uploads/2020/08/feature-image-81.jpg");
 
-const Container = () => (
-  <Parallax bgImage={image1} strength={100}
+const Container3 = () => (
+  <Parallax bgImage={image2} strength={100}
   blur={{ min: -10, max: 10 }}>
     
-    {/* <p>... Content</p> */}
+  
     <div 
-    style={{ height: '600px' }} 
+    style={{ height: '800px' }} 
     className="Folio_Card">
-      <div className="txt">Club Activities</div>
+      <div className="txt">Cruising and Fishing</div>
       {/* <div className="strapline">Strapline somthing</div> */}
     </div>
   </Parallax>
 );
 
-export default Container;
+export default Container3;
 
 
 
